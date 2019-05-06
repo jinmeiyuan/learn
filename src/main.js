@@ -9,6 +9,7 @@ import '@/icons'
 import '@/style/main.scss'
 import Vuex from 'vuex'
 import store from './store'
+import '../mock'
 
 Vue.use(Vuex)
 

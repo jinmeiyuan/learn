@@ -6,7 +6,7 @@
             <router-link class="header__box__link" to="/">JavaScript基础</router-link>
             <router-link class="header__box__link" to="/place/order">我的订单</router-link>
             <router-link class="header__box__link" to="/place/cooperate">加盟合作</router-link>
-            <router-link class="header__box__link" to="/">我的客服</router-link>
+            <router-link class="header__box__link" to="/place/mock">mock</router-link>
         </div>
         <nav class="header__box__nav">
             <router-link class="header__box__nav__link" to="/">规则中心</router-link>

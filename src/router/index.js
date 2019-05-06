@@ -9,6 +9,9 @@ const routerConfig = [{
   children: [{
     path: '/place/index',
     component: () => import(/* webpackChunkName : javascriptBasic */ '@/pages/javaScriptBasic')
+  }, {
+    path: '/place/mock',
+    component: () => import(/* webpackChunkName : mock */ '@/pages/mock')
   }]
 }]
 export default routerConfig

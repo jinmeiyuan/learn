@@ -1,4 +1,4 @@
-let baseUrl = 'https://elm.cangdu.org'
+let baseUrl = ''
 export {
   baseUrl
 }

@@ -19,6 +19,9 @@ export default {
 <style lang="scss">
 .my__container{
     min-height: 100%;
+    .my__main{
+        height: calc(100% - 20px);
+    }
 }
 .my__header{
     width: 100%;
